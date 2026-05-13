@@ -73,7 +73,6 @@ The project runs in **Local Demo Mode** by default so the UI can be tested immed
 
 > Add screenshots in this section after deploying or capturing the interface.
 
-```text
 docs/screenshots/dashboard.png
 <img width="1168" height="941" alt="image" src="https://github.com/user-attachments/assets/ff538615-12ec-4789-a013-70fc7d0b6bcb" />
 
