@@ -75,13 +75,17 @@ The project runs in **Local Demo Mode** by default so the UI can be tested immed
 
 ```text
 docs/screenshots/dashboard.png
+<img width="1168" height="941" alt="image" src="https://github.com/user-attachments/assets/ff538615-12ec-4789-a013-70fc7d0b6bcb" />
+
 docs/screenshots/generated-questions.png
+<img width="390" height="915" alt="image" src="https://github.com/user-attachments/assets/56796c50-3b1f-446a-90b2-e64a302b6026" />
+
 docs/screenshots/question-answering.png
+<img width="389" height="732" alt="image" src="https://github.com/user-attachments/assets/d7965940-2891-47cd-a948-61f9010ec283" />
+
 ```
 
-Example placeholder:
 
-![Dashboard Screenshot](docs/screenshots/dashboard.png)
 
 ---
 
